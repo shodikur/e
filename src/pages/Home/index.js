@@ -107,8 +107,6 @@ function Home() {
             <hr/>
           </>)
         })}
-
-       
         {/* <!-- Pager --> */}
         <div className="clearfix">
           <a className="btn btn-primary float-right" href="#">Older Posts &rarr;</a>
